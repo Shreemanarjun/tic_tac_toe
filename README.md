@@ -7,8 +7,7 @@
 
 <!-- ![Tic Tac Toe Banner](banner.png) -->
 
- <video width="800" height="400"  src="https://github.com/Shreemanarjun/tic_tac_toe/blob/main/screenshot/video/iphone_rec.mov" controls="controls" muted="muted" playsinline="playsinline">
-      </video>
+
 
 
 
