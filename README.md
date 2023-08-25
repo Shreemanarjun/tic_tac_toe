@@ -5,6 +5,10 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Flutter Version](https://img.shields.io/badge/flutter-3.13.1-blue.svg)](https://flutter.dev)
 
+
+https://github.com/Shreemanarjun/tic_tac_toe/assets/24736211/3a6ff812-b227-4b40-a9ee-30adfffbfd71
+
+
 <!-- ![Tic Tac Toe Banner](banner.png) -->
 
 
