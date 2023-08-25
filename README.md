@@ -7,6 +7,9 @@
 
 <!-- ![Tic Tac Toe Banner](banner.png) -->
 
+ <video width="800" height="400"  src="screenshot/video/iphone_rec.mov" controls="controls" muted="muted" playsinline="playsinline">
+      </video>
+
 
 
 Welcome to the Tic Tac Toe Flutter App! 🎮 Play the classic game of Tic Tac Toe with a modern and user-friendly UI. This app supports persistent storage of game progress, allows you to view the game history, and offers both a light and dark mode for your gaming pleasure. 
