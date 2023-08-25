@@ -48,6 +48,32 @@ Welcome to the Tic Tac Toe Flutter App! 🎮 Play the classic game of Tic Tac To
 </p>
 
 
+## 📥 Download APKs
+
+You can download the Tic Tac Toe app's APK files from the [Releases](https://github.com/Shreemanarjun/tic_tac_toe/releases) section of this repository. Choose the type of APK that suits your device:
+
+### 📱 Fat (Universal) APK
+
+The **Fat APK** is a single APK file that includes code and resources for all supported device architectures. This means it's larger in size but compatible with a wider range of devices.
+
+1. Go to the [Releases](https://github.com/Shreemanarjun/tic_tac_toe/releases) page.
+2. Find the latest release and locate the "Assets" section.
+3. Download the APK with the "Fat" or "Universal" label.
+
+### 📲 Split APKs
+
+The **Split APKs** are multiple smaller APK files, each optimized for a specific device architecture. This reduces the overall download size, but you'll need to download the appropriate APK for your device's architecture.
+
+1. Go to the [Releases](https://github.com/Shreemanarjun/tic_tac_toe/releases) page.
+2. Find the latest release and locate the "Assets" section.
+3. Download the APK(s) with the architecture label(s) that match your device. Common labels include "arm64-v8a" (64-bit ARM), "armeabi-v7a" (32-bit ARM), "x86_64" (64-bit x86), and "x86" (32-bit x86).
+
+Remember to enable "Unknown Sources" on your Android device if you're installing an APK outside of the Google Play Store. You can do this by going to **Settings > Security > Unknown Sources**.
+
+If you're unsure about which APK to download, you can usually determine your device's architecture by checking your device's specifications or using apps like [CPU-Z](https://play.google.com/store/apps/details?id=com.cpuid.cpu_z) from the Play Store.
+
+Enjoy playing Tic Tac Toe! 🎮❌⭕️
+
 ## How to Run
 
 Follow these steps to run the Tic Tac Toe Flutter App on your local machine:
