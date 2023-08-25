@@ -1,9 +1,11 @@
 # Tic Tac Toe Flutter App
-[![Build Status](https://github.com/Shreemanarjun/tic_tac_toe/actions/workflows/build.yml/badge.svg)](https://github.com/Shreemanarjun/tic_tac_toe/actions)
-[![Codecov](https://codecov.io/gh/Shreemanarjun/tic_tac_toe/branch/main/graph/badge.svg)](https://codecov.io/gh/Shreemanarjun/tic_tac_toe)
-[![GitHub All Releases](https://img.shields.io/github/downloads/Shreemanarjun/tic_tac_toe/total.svg)](https://github.com/Shreemanarjun/tic_tac_toe/releases)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Flutter Version](https://img.shields.io/badge/flutter-3.13.1-blue.svg)](https://flutter.dev)
+[![Build Status](https://img.shields.io/github/workflow/status/Shreemanarjun/tic_tac_toe/Build%20and%20Test/main)](https://github.com/Shreemanarjun/tic_tac_toe/actions)
+[![Codecov](https://img.shields.io/codecov/c/gh/Shreemanarjun/tic_tac_toe/main)](https://codecov.io/gh/Shreemanarjun/tic_tac_toe)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Shreemanarjun/tic_tac_toe)](https://github.com/Shreemanarjun/tic_tac_toe/releases)
+[![GitHub All Releases](https://img.shields.io/github/downloads/Shreemanarjun/tic_tac_toe/total)](https://github.com/Shreemanarjun/tic_tac_toe/releases)
+[![License](https://img.shields.io/github/license/Shreemanarjun/tic_tac_toe)](https://opensource.org/licenses/MIT)
+[![Flutter](https://img.shields.io/badge/flutter-2.5-blue)](https://flutter.dev)
+
 
 
 https://github.com/Shreemanarjun/tic_tac_toe/assets/24736211/3a6ff812-b227-4b40-a9ee-30adfffbfd71
