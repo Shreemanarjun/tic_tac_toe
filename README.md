@@ -1,6 +1,13 @@
 # Tic Tac Toe Flutter App
+[![Build Status](https://github.com/Shreemanarjun/tic_tac_toe/actions/workflows/build.yml/badge.svg)](https://github.com/Shreemanarjun/tic_tac_toe/actions)
+[![Codecov](https://codecov.io/gh/Shreemanarjun/tic_tac_toe/branch/main/graph/badge.svg)](https://codecov.io/gh/Shreemanarjun/tic_tac_toe)
+[![GitHub All Releases](https://img.shields.io/github/downloads/Shreemanarjun/tic_tac_toe/total.svg)](https://github.com/Shreemanarjun/tic_tac_toe/releases)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Flutter Version](https://img.shields.io/badge/flutter-3.13.1-blue.svg)](https://flutter.dev)
 
 <!-- ![Tic Tac Toe Banner](banner.png) -->
+
+
 
 Welcome to the Tic Tac Toe Flutter App! 🎮 Play the classic game of Tic Tac Toe with a modern and user-friendly UI. This app supports persistent storage of game progress, allows you to view the game history, and offers both a light and dark mode for your gaming pleasure. 
 
